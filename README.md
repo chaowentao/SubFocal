@@ -45,15 +45,18 @@ CUDA              11.2
 # Submit SubFocal
 - Run `python submission.py`
   - `path_weight='LF_checkpoint/SubFocal_sub_0.5_js_0.1_ckp/iter0010_valmse0.768_bp1.93.hdf5'`
-<!-- # Citation
+# Citation
 ```
-@inproceedings{Tsai:2020:ABV,
-        author = {Tsai, Yu-Ju and Liu, Yu-Lun and Ouhyoung, Ming and Chuang, Yung-Yu},
-        title = {Attention-based View Selection Networks for Light-field Disparity Estimation},
-        booktitle = {Proceedings of the 34th Conference on Artificial Intelligence (AAAI)},
-        year = {2020}
-}
-``` -->
+@ARTICLE{chao2023learning,
+  author={Chao, Wentao and Wang, Xuechun and Wang, Yingqian and Wang, Guanghui and Duan, Fuqing},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TCI.2023.3336184}}
+``` 
 
 Last modified data: 2022/08/18.
 
